@@ -1,10 +1,10 @@
 # AtliQ-Grands-Revenue-Report-Insights
 
-In this guided project, our goal is to simulate the revenue analysis process for AtliQ Grands, a fictional company operating in the hospitality industry. Through this project, I explored revenue optimization strategies and gained valuable insights to help AtliQ Grands improve their market share and revenue performance in the luxury/business hotels category.
+ Through this project case study of AtliQ Grands, a fictional company operating in the hospitality industry, I explored revenue optimization strategies and gained valuable insights to help AtliQ Grands improve their market share and revenue performance in the luxury/business hotels category.
 
 **Problem Statement**
 
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. This is a part of Resume challenge organized by Codebasics.io
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands is losing its market share and revenue in the luxury/business hotels category. As a strategic move, the MD of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. This is part of the Resume challenge organized by Codebasics.io
 
 Dashboard link: https://www.novypro.com/project/hotel-chain---revenue-analysis
 
