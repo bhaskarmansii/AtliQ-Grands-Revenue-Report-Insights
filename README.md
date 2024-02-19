@@ -4,6 +4,7 @@
 
 
 Dashboard link: https://www.novypro.com/project/hotel-chain---revenue-analysis
+
 Notion Document: https://www.notion.so/Hospitality-Industry-Revenue-Report-Analysis-b1f7293666ca49369856ff871595388b?pvs=4 
 
 Domain: Hospitality
